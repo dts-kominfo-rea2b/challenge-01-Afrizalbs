@@ -8,6 +8,7 @@ const monicaFood = [
   "Sushi",
   "Pancake",
   "Eggy",
+  "Tempura",
   "Bento",
   "Eggy",
   "Padang",
